@@ -1,6 +1,6 @@
 ### 
 
-- Hi there, I'm Yan Bo. 👋
+- 👋 Hi there, I'm Yan Bo. 
 - 👀 I am interested in a career as a software developer.
 - 🌱 I’m currently learning Go.
 <!--
