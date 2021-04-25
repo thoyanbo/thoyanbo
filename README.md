@@ -1,5 +1,8 @@
-### Hi there 👋
+### 
 
+- Hi there, I'm Yan Bo. 👋
+- 👀 I am interested in a career as a software developer.
+- 🌱 I’m currently learning Go.
 <!--
 **thoyanbo/thoyanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
